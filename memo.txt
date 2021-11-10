@@ -21,3 +21,11 @@
 11- git merge nom de la branche => fusionne la branche nom_de_la_branche à la branche courante
 
 12- git branch -d nom_de_la_branche pour supprimer la branche
+
+13- git checkout -b nom_de_la_branche => créer la branche et basculer dessus
+
+14- git log => afficher l'historique des commmits
+
+15- git remote add origin url_du_repository distant => va connecter le repository local au repository distant
+
+git push => envoyer les modifications apportées en local vers le server

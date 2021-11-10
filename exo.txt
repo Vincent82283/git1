@@ -1,0 +1,14 @@
+exercice :
+Créer une nouvelle fonctionnalité correspondant à un formulaire de connexion 
+Pour cela créer une branche connexion
+se positionner sue la branche
+Créer le fichier connexion.html
+Valider les modifications
+Fusionner la branche connexion à la branche master 
+Supprimer la branche connexion
+
+
+exercice : 
+Créer une page accueil.html mettre du contenu dedans
+Valider les modifications (git add git commit)
+Envoyer les modifications vers le server github
