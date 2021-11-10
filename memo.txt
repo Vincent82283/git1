@@ -15,3 +15,9 @@
 8- git branch => lister les branches
 
 9- git branch nom de la branche => permet de créer une branche (une branche est une copie exacte de la branche principale au moment de sa création)
+
+10- git checkout nom de la branche => basculer vers cette branche
+
+11- git merge nom de la branche => fusionne la branche nom_de_la_branche à la branche courante
+
+12- git branch -d nom_de_la_branche pour supprimer la branche
